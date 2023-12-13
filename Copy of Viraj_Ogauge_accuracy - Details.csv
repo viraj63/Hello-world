@@ -1,0 +1,5 @@
+Pressure range (kg/cm^2),Average Accuracy(%),Linearity(% of full scale),Hysteresis
+1 to 9,0.035,0.999,0.026
+4 to 6,0.233,0.999,0.025
+6 to 9,0.132,0.999,0.044
+1 to 4,0.184,0.999,0.016
